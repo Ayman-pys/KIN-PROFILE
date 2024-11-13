@@ -79,7 +79,7 @@ hr {
 }
 .github {
     position: absolute;
-    bottom: 0;
+    bottom: 20;
 }
 .home, .boss, .content {
     width: 100%;
