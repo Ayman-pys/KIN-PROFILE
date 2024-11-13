@@ -275,6 +275,10 @@ hr {
         margin-bottom: 20px;
     }
 }
+@media (max-width: 615px) {
+    .menu {
+        display: none;
+    }
 .clock {
     width: 400px;
     height: 400px;
